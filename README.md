@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/hkf](https://github.com/prescientmoon/hkf) 🚧
 > This project has been abandoned (sadly)
 
 # Haskell Keyboard Fuckery
